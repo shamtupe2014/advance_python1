@@ -1,0 +1,2 @@
+a="maha"
+print(a)
